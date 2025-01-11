@@ -1,3 +1,12 @@
+
+
+#Watch the demonstration video of the project below:
+
+[![Watch the video](https://img.youtube.com/vi/JYtwnbCWCHA/0.jpg)](https://www.youtube.com/watch?v=JYtwnbCWCHA)
+
+Click the image to watch the video on YouTube.
+
+
 # Research Paper Question-Answering System with References
 
 This repository contains the implementation details of a Retrieve-Augment-Generate (RAG) pipeline designed to answer questions based on a collection of thousands of brain-related research papers. The system provides highly relevant answers along with references to the specific research papers and page numbers from which the information was extracted. The pipeline also incorporates re-ranking and metadata generation to enhance the accuracy and relevance of responses.
