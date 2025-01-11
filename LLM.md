@@ -20,6 +20,9 @@ This repository contains the implementation details of a Retrieve-Augment-Genera
 - **Metadata-Enhanced Retrieval**: Uses metadata to improve the relevance of retrieved results.
 - **Re-Ranker Integration**: Reranks retrieved results to ensure the highest relevance.
 - **Self-Hosted Model**: Uses a self-hosted Mixtral AI for in-house deployment.
+- **Database Query Engine**: Natural language interface for querying brain research data
+- **NeuroGuardrails**: Safety system for filtering unsafe/irrelevant queries
+- **Analytics Generator**: Statistical analysis of brain regions and visualization
 
 ---
 
@@ -94,18 +97,32 @@ This repository contains the implementation details of a Retrieve-Augment-Genera
 - **Language Models**:
   - Self-hosted Mixtral AI for in-house deployment.
   - Hugging Face Transformers for query understanding and re-ranking.
+  - Meta-Llama-Guard-2-8B for query safety
+  - NemoGuardrails for safety system
+  - VLLM for high-performance inference
 - **Data Indexing and Search**:
   - FAISS for vector similarity search.
   - Pinecone for scalable vector database.
 - **NLP Tools**:
   - spaCy for metadata extraction.
   - LangChain for retrieval and context handling.
+- **Infrastructure**:
+  - NVIDIA DGX3 for high-performance computing
 
 ### **Additional Tools**
 - **PDF Processing**: PyPDF2, pdfplumber.
 - **Web Framework**: Flask/FastAPI for the backend; React.js for the frontend.
 - **Deployment**: Docker, Nginx for containerization and hosting.
 - **Version Control**: Git for managing codebase.
+
+---
+
+## Achievements
+- Successfully implemented Data Base Query Engine for natural language interaction with brain research data
+- Built robust NeuroGuardrails system for query safety
+- Developed comprehensive Analytics Generator for brain region statistics
+- Presented NeuroVoyager at IIT Madras Student Fest Paradox 2024
+- Received weekly guidance and support from NVIDIA
 
 ---
 
@@ -121,33 +138,3 @@ Feel free to reach out with queries or suggestions for similar projects in other
 
 ## License
 This project is proprietary and adheres to the guidelines set by the Sudha Gopalakrishnan Brain Centre, IIT Madras. Unauthorized use, reproduction, or distribution is prohibited.
-
-
-
-
-
-
-# Professional Experience - NeuroVoyager at SGBC, IIT Madras
-
-## AI/ML Engineer
-### Brain Research Platform Development
-
-#### AI/ML Development 
-- Implemented Data Base Query Engine for natural language interaction with brain research data
-- Built NeuroGuardrails system using NemoGuardrails and Meta-Llama-Guard-2-8B for query safety
-- Developed Analytics Generator for brain region statistics and visualization
-- Integrated with NVIDIA DGX3 infrastructure for high-performance computing
-
-#### Platform Features
-- **Database Query Engine**: Natural language interface for querying brain research data
-- **NeuroGuardrails**: Safety system for filtering unsafe/irrelevant queries
-- **Analytics Generator**: Statistical analysis of brain regions and visualization
-
-#### Technologies Used
-- **AI/ML**: Meta-Llama-Guard-2-8B, NemoGuardrails, VLLM
-- **Infrastructure**: NVIDIA DGX3
-
-#### Achievements
-- Presented NeuroVoyager at IIT Madras Student Fest Paradox 2024
-- Received weekly guidance and support from NVIDIA
-
