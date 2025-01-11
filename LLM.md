@@ -4,7 +4,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/JYtwnbCWCHA/0.jpg)](https://www.youtube.com/watch?v=JYtwnbCWCHA)
 
-Click the image to watch the video on YouTube.
+Click the image or [click here](https://www.youtube.com/watch?v=JYtwnbCWCHA) to watch the video on YouTube.
 
 
 # Research Paper Question-Answering System with References
