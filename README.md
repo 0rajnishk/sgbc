@@ -1,3 +1,7 @@
+[Click here for LLM Work i did at SGBC](https://github.com/SGBC-LLM/sgbc/blob/main/llm.md)
+
+
+
 # SGBC LLM TEAM
 A Reference-based RAG Chatbot for Brain Research
 
