@@ -3,7 +3,7 @@
 The Sudha Gopalakrishnan Brain Centre at IIT Madras is a cutting-edge research facility focused on advancing neuroscience research through technology and innovation. Established with support from Sudha Gopalakrishnan, it houses state-of-the-art equipment including NVIDIA DGX systems and advanced microscopy facilities. The centre brings together experts in neuroscience, engineering, and AI to conduct groundbreaking research in brain mapping, neurodegenerative diseases, and brain-computer interfaces. Through its work, SGBC has established itself as one of India's premier institutions for brain research and international collaborations.
 
 
-# SGBC Work Portfolio
+# My Work at SGBC
 
 ## Overview
 This repository contains documentation of my work at SGBC, focusing on two main areas:
