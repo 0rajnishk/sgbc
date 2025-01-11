@@ -5,6 +5,9 @@ The Sudha Gopalakrishnan Brain Centre at IIT Madras is a cutting-edge research f
 
 # My Work at SGBC
 
+![SGBC Experience Letter](https://github.com/0rajnishk/sgbc/blob/main/expirence%20latter%20sgbc.jpg)
+
+
 ## Overview
 This repository contains documentation of my work at SGBC, focusing on two main areas:
 
