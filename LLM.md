@@ -121,3 +121,33 @@ Feel free to reach out with queries or suggestions for similar projects in other
 
 ## License
 This project is proprietary and adheres to the guidelines set by the Sudha Gopalakrishnan Brain Centre, IIT Madras. Unauthorized use, reproduction, or distribution is prohibited.
+
+
+
+
+
+
+# Professional Experience - NeuroVoyager at SGBC, IIT Madras
+
+## AI/ML Engineer
+### Brain Research Platform Development
+
+#### AI/ML Development 
+- Implemented Data Base Query Engine for natural language interaction with brain research data
+- Built NeuroGuardrails system using NemoGuardrails and Meta-Llama-Guard-2-8B for query safety
+- Developed Analytics Generator for brain region statistics and visualization
+- Integrated with NVIDIA DGX3 infrastructure for high-performance computing
+
+#### Platform Features
+- **Database Query Engine**: Natural language interface for querying brain research data
+- **NeuroGuardrails**: Safety system for filtering unsafe/irrelevant queries
+- **Analytics Generator**: Statistical analysis of brain regions and visualization
+
+#### Technologies Used
+- **AI/ML**: Meta-Llama-Guard-2-8B, NemoGuardrails, VLLM
+- **Infrastructure**: NVIDIA DGX3
+
+#### Achievements
+- Presented NeuroVoyager at IIT Madras Student Fest Paradox 2024
+- Received weekly guidance and support from NVIDIA
+
